@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "センス・オブ・ワンダー",
+  "base_artist": "sumika",
+  "createdAt": "2026-03-10T16:21:43.971220Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "センス・オブ・ワンダー",
+      "artist": "RIP SLYME",
+      "has_synced": true,
+      "path": "select/01_センス・オブ・ワンダー_RIP_SLYME.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "センス・オブ・ワンダー",
+      "artist": "Sumika",
+      "has_synced": true,
+      "path": "select/02_センス・オブ・ワンダー_Sumika.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sense of wonder [センス・オブ・ワンダー]",
+      "artist": "RIP SLYME",
+      "has_synced": true,
+      "path": "select/03_Sense_of_wonder_[センス・オブ・ワンダー]_RIP_SLYME.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "センス・オブ・ワンダー",
+      "artist": "Sou",
+      "has_synced": true,
+      "path": "select/04_センス・オブ・ワンダー_Sou.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "センス・オブ・ワンダー",
+      "artist": "sumika",
+      "has_synced": false,
+      "path": "select/pl_01_センス・オブ・ワンダー_sumika.txt"
+    }
+  ]
+}
